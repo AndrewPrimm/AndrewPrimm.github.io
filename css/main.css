@@ -1,0 +1,43 @@
+/* Self-hosted font */
+@font-face {
+    font-family: "OpenSans";
+    src: url("../fonts/OpenSans-Regular.ttf") format("truetype");
+}
+
+/* Universal font */
+* {
+    font-family: "OpenSans", Arial, sans-serif;
+}
+
+/* Body background color */
+body {
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* H1 styling */
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+/* Responsive images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Button style */
+.btn-primary {
+    display: inline-block;
+    background: #0056b3;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-primary:hover {
+    background: #003f82;
+}
