@@ -1,4 +1,4 @@
-html {
+<html> {
 /* Self-hosted font */
 @font-face {
     font-family: "OpenSans";
@@ -42,4 +42,5 @@ img {
 .btn-primary:hover {
     background: #003f82;
 }
+    </html>
 }
