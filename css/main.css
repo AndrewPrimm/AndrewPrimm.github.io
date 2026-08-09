@@ -1,4 +1,3 @@
-<html> {
 @font-face {
     font-family: "OpenSans";
     src: url("../fonts/OpenSans-Regular.ttf") format("truetype");
@@ -58,5 +57,4 @@ iframe {
         gap: 10px;
     }
 }
-}
-</html>
+
